@@ -1,8 +1,8 @@
 board = [" "," "," "," "," "," "," "," "," "]
 def display_board(board)
-  puts row = [" "|" "|" "]
-  puts separator = "-----------"
-  puts row = [" "|" "|" "]
-  puts separator = "-----------"
-  puts row = [" "|" "|" "]
+  puts "  |  |  "
+  puts "-----------"
+  puts "  |  |  "
+  puts "-----------"
+  puts "  |  |  "
 end
